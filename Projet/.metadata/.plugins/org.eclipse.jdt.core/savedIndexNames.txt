@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Asus\Desktop\Test Git\Projet\.metadata\.plugins\org.eclipse.jdt.core
-113558702.index
-3449984365.index
